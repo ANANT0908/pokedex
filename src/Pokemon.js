@@ -18,7 +18,7 @@ export default function Pokemon() {
 
     return (
       <>
-      { loading && <img alt="img" src="https://c.tenor.com/8ZhQShCQe9UAAAAC/loader.gif" />}
+      { loading && <img alt="img" src="https://images.app.goo.gl/cCCAwWkFzusueWGW6" />}
       { !loading &&
         <div>
           <p>Information for {details.name}</p>
